@@ -1,33 +1,53 @@
-## Hi there 👋
+## 🧰 Bare Tools
 
+**Bare Tools** is a suite of focused tools to solve real problems with minimal bloat.
 
-🛠️ BareTools Roadmap
+We believe in **pragmatism**, **freedom**, and **simplicity**.  
+We write software that respects users, prioritizes clarity, and avoids unnecessary complexity.
 
-✅ Already Started:
-PDF Reader (Simple, visual PDF viewer)
+---
 
-🔜 Next Candidates (pick any to start):
-Clipboard Manager
+### 🔧 What We Build
 
-File Extractor (.zip/.rar/.7z)
+- Tools that are **lightweight**, **open source**, and **minimalist**.
+- Apps that solve **specific problems** without trying to do everything.
+- Solutions that are easy to **understand**, **modify**, and **maintain**.
 
-ePub Reader
+---
 
-Minimal Email Client
+### ✨ Principles We Follow
 
-Bulk File Renamer
+- **Less is more**: Avoid feature creep. Focus on core functionality.
+- **Freedom matters**: Our tools are open, forkable, and modifiable.
+- **Hackable by design**: Everything we build is meant to be understood and changed by users.
+- **Respect the user**: No trackers, no forced updates, no dark patterns.
 
-Daily Journal
+---
 
-Image Resizer & Format Converter
+### 📦 Tools We're Building
 
-Download Cleaner
+#### ✅ Already Started
 
-Simple To-Do or Notes App
+- 📰 **BareReader** – A simple and visual PDF viewer.  
+  Currently at **v1.5** – fast, distraction-free, and hackable.
 
-🎯 Final Step:
-BareTools Launcher
+#### 🔜 Next Candidates
 
-One unified interface to open any installed tool.
+These are tools we plan to build next. Feel free to pick one and start hacking:
 
-Optional config for enabling/disabling tools.
+- 📋 **Clipboard Manager**
+- 📦 **File Extractor** (.zip / .rar / .7z)
+- 📖 **ePub Reader**
+- 📧 **Minimal Email Client**
+- 🏷️ **Bulk File Renamer**
+- 📓 **Daily Journal**
+- 🖼️ **Image Resizer & Format Converter**
+- 🧹 **Download Cleaner**
+- 🗒️ **Simple To-Do or Notes App**
+
+#### 🎯 Final Step
+
+- 🚀 **BareTools Launcher** – A unified interface to open any installed Bare Tool.  
+  Includes optional configuration to enable/disable tools.
+
+> **"We don’t build empires. We build screwdrivers."** 🔩
