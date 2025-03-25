@@ -28,7 +28,7 @@ We write software that respects users, prioritizes clarity, and avoids unnecessa
 
 #### ✅ Already Started
 
-- 📰 <a href="https://github.com/Bare-Tools/BareReader" target="_blank"> **BareReader** </a> – A simple and visual PDF viewer.  
+- 📰 <a href="https://github.com/Bare-Tools/BareReader/releases/tag/v1.5"> **BareReader** </a> – A simple and visual PDF viewer.  
   Currently at **v1.5** – fast, distraction-free, and hackable.
 
 #### 🔜 Next Candidates (we will rename it)
@@ -52,4 +52,4 @@ These are tools we plan to build next:
 
 > **"We don’t build empires. We build screwdrivers."** 🔩
 
-- BareTools is a <a href="https://soupit.ar" target="_blank">Soup IT</a> trademark.
+<i>BareTools is a <a href="https://soupit.ar" target="_blank">Soup IT</a> trademark.</i>
