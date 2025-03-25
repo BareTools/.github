@@ -1,12 +1,33 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+🛠️ BareTools Roadmap
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✅ Already Started:
+PDF Reader (Simple, visual PDF viewer)
+
+🔜 Next Candidates (pick any to start):
+Clipboard Manager
+
+File Extractor (.zip/.rar/.7z)
+
+ePub Reader
+
+Minimal Email Client
+
+Bulk File Renamer
+
+Daily Journal
+
+Image Resizer & Format Converter
+
+Download Cleaner
+
+Simple To-Do or Notes App
+
+🎯 Final Step:
+BareTools Launcher
+
+One unified interface to open any installed tool.
+
+Optional config for enabling/disabling tools.
