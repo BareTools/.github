@@ -33,7 +33,7 @@ We write software that respects users, prioritizes clarity, and avoids unnecessa
 
 #### 🔜 Next Candidates
 
-These are tools we plan to build next. Feel free to pick one and start hacking:
+These are tools we plan to build next:
 
 - 📋 **Clipboard Manager**
 - 📦 **File Extractor** (.zip / .rar / .7z)
