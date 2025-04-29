@@ -28,10 +28,12 @@ We write software that respects users, prioritizes clarity, and avoids unnecessa
 
 #### ✅ Already Started
 
-- 📰 <a href="https://github.com/Bare-Tools/BareReader/releases/tag/v1.5"> **BareReader** </a> – A simple and visual PDF viewer.  
-  Currently at **v1.5** – fast, distraction-free, and hackable.
+- 📰 <a href="https://github.com/Bare-Tools/BareReader/releases/tag/v1.5.1"> **BareReader** </a> – A simple and visual PDF viewer.  
+  Currently at **v1.5.1** – fast and distraction-free.
+- 📰 <a href="https://github.com/Bare-Tools/barepasswordmanager/"> **BarePasswordManager** </a> – A simple, super safe password manager.  
+  Currently at **v1.0** – fast, distraction-free, and hackable.
 
-#### 🔜 Next Candidates (we will rename it)
+#### 🔜 Next Candidates (we will rename them)
 
 These are tools we plan to build next:
 
@@ -44,6 +46,13 @@ These are tools we plan to build next:
 - 🖼️ **Image Resizer & Format Converter**
 - 🧹 **Download Cleaner**
 - 🗒️ **Simple To-Do or Notes App**
+- 📷 **Screenshot Tool** – A lightweight app to capture screenshots and annotate them.
+- 🔎 **Duplicate File Finder** – Helps find and remove duplicate files to free up disk space.
+- 🗂️ **File Organizer** – Automatically categorizes and organizes files into folders based on their type or metadata.
+- 📅 **Calendar & Event Reminder** – An app to manage events and send notifications for upcoming tasks or appointments.
+- 📝 **Markdown Editor** – A simple editor for writing in Markdown, with a live preview.
+- 📜 **Text Formatter** – For cleaning up and formatting text, removing unwanted spaces, line breaks, or converting case styles.
+- 📲 **Mobile Data Manager** – Monitors and manages mobile data usage, including warnings when nearing a limit.
 
 #### 🎯 Final Step
 
