@@ -30,7 +30,7 @@ We write software that respects users, prioritizes clarity, and avoids unnecessa
 
 - 📰 <a href="https://github.com/BareTools/BareReader/releases/tag/1.5.1"> **BareReader** </a> – A simple and visual PDF viewer.  
   Currently at **v1.5.1** – fast and distraction-free.
-- 🔒 <a href="https://github.com/BareTools/barepasswordmanager"> **BarePasswordManager** </a> – A simple, super safe password manager.  
+- 🔒 <a href="https://github.com/BareTools/barepasswordmanager/releases/tag/v1"> **BarePasswordManager** </a> – A simple, super safe password manager.  
   Currently at **v1.0** – fast, distraction-free, and hackable.
 
 #### 🔜 Next Candidates (we will rename them)
